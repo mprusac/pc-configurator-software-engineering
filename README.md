@@ -76,17 +76,6 @@ and database operations.
 
 ---
 
-## 📂 Project Structure
-
-/Software
-├── Solution / Project files
-├── Data access layer
-├── Business logic
-├── User interface
-
-
----
-
 ## ✅ Testing
 
 - Manual testing of all core application scenarios
