@@ -78,3 +78,26 @@ and database operations.
 
 ## 📂 Project Structure
 
+/Software
+├── Solution / Project files
+├── Data access layer
+├── Business logic
+├── User interface
+
+
+---
+
+## ✅ Testing
+
+- Manual testing of all core application scenarios
+- Verified CRUD operations and configuration workflows
+- Ensured stable behavior without runtime errors
+
+---
+
+## 📄 Notes
+
+- This project was developed **independently**
+- Commit history reflects continuous development
+- All implemented functionalities can be compiled and executed successfully
+
